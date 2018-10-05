@@ -6,8 +6,7 @@ include 'designbasic.html';
 <body background="images/pink-white_00253144.jpg">
 <img src="images/City_Engineering_College_Bangalore.jpg" height=100 width=150 style="padding-left: 980px; margin-top: -76px;">
 <img src="images/online-leave-management-logo-New.png" height=50 width=200 style="padding-right: 980px; margin-top: -88px;padding-bottom: 51px;">
-<ul>dhdhfmk/l;;udfgb  b j
-  bfifgjc
+<ul>
   <li><a href="index.php">Home</a></li>
   <li><a href="about.php">About Us</a></li>
   <li><a href="courses.php">Courses</a></li>
